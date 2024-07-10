@@ -1,0 +1,12 @@
+{
+    "Common": true,
+    "Admin": true,
+    "Client": true,
+    "Category": true,
+    "Order": true,
+    "Coupon": true,
+    "Setting": true,
+    "Notification": false,
+    "Provider": true,
+    "Service": true
+}
